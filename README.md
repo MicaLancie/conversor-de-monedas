@@ -32,10 +32,7 @@ Ejecuta la clase Principal.java.
 Demostracion:
 
 
-
-
-
-
+<img width="1364" height="721" alt="demo1" src="https://github.com/user-attachments/assets/370f7660-2892-4040-9725-152d652ee4b0" />
 
 
 Autora:
