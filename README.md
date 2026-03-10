@@ -29,5 +29,19 @@ Importa el proyecto en tu IDE (IntelliJ IDEA recomendado).
 Asegúrate de agregar la biblioteca Gson a las dependencias del proyecto.
 Ejecuta la clase Principal.java.
 
+Demostracion:
+
+
+
+
+
+
+
+
 Autora:
 Micaela Lancieri- Estudiante de BackEnd-Alura
+
+
+
+
+
