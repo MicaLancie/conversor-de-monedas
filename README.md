@@ -33,12 +33,9 @@ Demostracion:
 
 
 <img width="1364" height="721" alt="demo1" src="https://github.com/user-attachments/assets/370f7660-2892-4040-9725-152d652ee4b0" />
+<img width="1320" height="718" alt="demo2" src="https://github.com/user-attachments/assets/7e43a6c7-0978-42c0-b5e0-aa433e6b1d44" />
+<img width="1365" height="722" alt="demo3" src="https://github.com/user-attachments/assets/888fdded-429d-404e-b315-f43e6cc96632" />
 
 
 Autora:
 Micaela Lancieri- Estudiante de BackEnd-Alura
-
-
-
-
-
