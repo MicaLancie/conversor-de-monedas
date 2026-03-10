@@ -23,7 +23,8 @@
 🚀 Cómo ejecutarlo
 Clona el repositorio:
 
-
+       https://github.com/MicaLancie/conversor-de-monedas.git
+       
 Importa el proyecto en tu IDE (IntelliJ IDEA recomendado).
 Asegúrate de agregar la biblioteca Gson a las dependencias del proyecto.
 Ejecuta la clase Principal.java.
